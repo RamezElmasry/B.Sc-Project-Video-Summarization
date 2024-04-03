@@ -1,0 +1,8 @@
+- caffe 1.0
+- pysimplegui
+- shutil
+- opencv
+- imageio
+- sklearn
+- numpy
+- preferable linux Ubuntu 20.04
